@@ -63,4 +63,4 @@ Titanic-EDA/
 ## 💡 Conclusion
 This analysis highlights how data cleaning and visualization can uncover meaningful patterns in real-world datasets. Factors like gender and passenger class had a strong influence on survival, while age played a smaller role. The project demonstrates the importance of EDA in understanding data before applying machine learning.
 
----
+----
